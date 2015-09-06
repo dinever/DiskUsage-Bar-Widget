@@ -2,7 +2,7 @@
 
 This is a Disk Usage widget for [Übersicht](http://tracesof.net/uebersicht/).
 
-Desgined to go with [ubersicht-memory-bar](https://github.com/cobyism/ubersicht-memory-bar).
+Designed to go with [ubersicht-memory-bar](https://github.com/cobyism/ubersicht-memory-bar).
 
 ## Screen Shot
 
