@@ -126,7 +126,7 @@ renderInfo: (total, used, free, pctg, name) -> """
       <tr>
         <td class="label">used</td>
         <td class="label">free</td>
-        <td class="label pctg">pctg</td>
+        <td class="label pctg">full</td>
       </tr>
     </table>
     <div class="bar-container">
